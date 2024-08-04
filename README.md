@@ -13,7 +13,8 @@
 <h3 > I am a full-stack developer ⚙️</h2>
 
 
-<img src="https://github.com/user-attachments/assets/35311658-f2ff-459c-b308-ff26e811b448" height=300px >
+
+<img src="https://github.com/user-attachments/assets/06baafe5-f3ee-4e64-817e-6ab9f10bc533" height=300px >
 <img src="https://github.com/user-attachments/assets/fe0062f9-7d6e-4b0a-9690-9b6eae5e1bb9"  height=300px >
 <img src="https://github.com/user-attachments/assets/c458d652-8d04-426c-95f0-a5c9dd02272c" height=300px>
 
