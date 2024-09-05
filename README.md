@@ -63,8 +63,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Mood Sync</h3>
- <img src="https://github.com/user-attachments/assets/56de3b6f-6932-4946-984a-4bcb922cbcc4" width=360px ></img>
-      
+<!--  <img src="https://github.com/user-attachments/assets/56de3b6f-6932-4946-984a-4bcb922cbcc4" width=360px ></img> -->
+<!--      [![Watch this video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+<a href="https://www.youtube.com/watch?v=MPU99RNoKes" target="_blank">
+  <img src="https://img.youtube.com/vi/MPU99RNoKes/0.jpg" alt="Watch this video" />
+</a>
+
+
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
