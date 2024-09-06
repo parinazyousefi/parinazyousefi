@@ -63,13 +63,9 @@
   <tr>
     <td width="33.33%" valign="top">
       <h3>Mood Sync</h3>
-<!--  <img src="https://github.com/user-attachments/assets/56de3b6f-6932-4946-984a-4bcb922cbcc4" width=360px ></img> -->
-      <div  width=360px >
+      <div align="center">
         https://github.com/user-attachments/assets/ba38fe89-59c3-40e5-a9c8-9d28dfa61b46
       </div>
-
-
-
 
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank">
