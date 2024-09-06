@@ -63,8 +63,7 @@
   <tr>
     <td width="33.33%" valign="top">
       <h3>Mood Sync</h3>
-      ![Recording2024-08-05202955-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/665f66cd-208c-48e9-98e2-3f50410f062a)
-
+      ![](https://github.com/user-attachments/assets/665f66cd-208c-48e9-98e2-3f50410f062a)
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
