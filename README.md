@@ -43,17 +43,24 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <h3>System and Database</h3>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<h3>Testing</h3>
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </section>
 
@@ -65,9 +72,12 @@
       <h3>Mood Sync</h3>
       <img src="https://github.com/user-attachments/assets/665f66cd-208c-48e9-98e2-3f50410f062a" alt="Mood Sync Screenshot" style="width: 100%; max-width: 300px;">
   <p>
-  <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank" >
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" margin="5px">
   </a>  
+  <a href="https://youtu.be/MPU99RNoKes" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a> 
    
    </p>
         <p><strong>React.js ,Node.js , Express.js ,Passport.js ,OAuth , Spotify API</strong>- Mood Sync is a web app that uses the Spotify API to analyze your recent listening history, recommend new songs, detect your mood, and display your top tracks and artists.</p>
@@ -75,13 +85,15 @@
     </td>
     <td width="33.33%" valign="top">
       <h3>Watchlist</h3>
-    <img src="https://github.com/user-attachments/assets/396d3d10-ede6-4657-bb7e-7bd8f5e47c6a" width=100% height=50%>
+      <img src="https://github.com/user-attachments/assets/7077589d-3926-473f-93cf-1be9e5432642" alt="Mood Sync Screenshot" style="width: 100%; max-width: 300px;">
    
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-watchlist" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    
   </a>  
+    <a href="https://youtu.be/gaQA74IEOLA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
       </p>
         <p><strong> React, TMBD API, Axios</strong>- Watchlist is a web app designed to help users discover and save their favorite movies and TV shows.</p>
     </td>
