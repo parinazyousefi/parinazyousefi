@@ -94,9 +94,8 @@
     </td>
     <td width="33.33%" valign="top">
       <h3>Face Recognition Device</h3>
-    <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%> ></img>
+    <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%> >
 
-   
   <p>
   <a href="https://github.com/parinazyousefi/Face-recognition-device-with-ESP32" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
