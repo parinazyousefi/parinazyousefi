@@ -92,6 +92,19 @@
       </p>
         <p><strong> React, TMBD API, Axios</strong>- Watchlist is a web app designed to help users discover and save their favorite movies and TV shows.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3>Face Recognition Device</h3>
+    <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%> ></img>
+
+   
+  <p>
+  <a href="https://github.com/parinazyousefi/Face-recognition-device-with-ESP32" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    
+  </a>  
+      </p>
+        <p><strong> C++, Arduino Uno, ESP32-CAM</strong>- This project presents a sophisticated security system for server room access control, leveraging facial recognition technology. The system ensures that only authorized individuals gain entry to the server room, maintaining a comprehensive log of access attempts.</p>
+    </td>
   </tr>
   
 </table>
