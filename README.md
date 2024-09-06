@@ -64,11 +64,9 @@
     <td width="50%" valign="top">
       <h3>Mood Sync</h3>
 <!--  <img src="https://github.com/user-attachments/assets/56de3b6f-6932-4946-984a-4bcb922cbcc4" width=360px ></img> -->
-<!--      [![Watch this video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
-<!-- <a href="https://www.youtube.com/watch?v=MPU99RNoKes" target="_blank">
-  <img src="https://img.youtube.com/vi/MPU99RNoKes/0.jpg" alt="Watch this video" />
-</a> -->
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MPU99RNoKes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/ba38fe89-59c3-40e5-a9c8-9d28dfa61b46
+
+
 
 
   <p>
