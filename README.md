@@ -82,7 +82,7 @@
     </td>
     <td width="33.33%" valign="top">
       <h3>Watchlist</h3>
-    <img src="https://github.com/user-attachments/assets/396d3d10-ede6-4657-bb7e-7bd8f5e47c6a" width=100% height=50%> ></img>
+    <img src="https://github.com/user-attachments/assets/396d3d10-ede6-4657-bb7e-7bd8f5e47c6a" width=100% height=50%>
    
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-watchlist" target="_blank">
@@ -94,7 +94,7 @@
     </td>
     <td width="33.33%" valign="top">
       <h3>Face Recognition Device</h3>
-    <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%> >
+    <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%>
 
   <p>
   <a href="https://github.com/parinazyousefi/Face-recognition-device-with-ESP32" target="_blank">
