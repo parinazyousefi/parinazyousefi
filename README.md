@@ -64,7 +64,9 @@
     <td width="50%" valign="top">
       <h3>Mood Sync</h3>
 <!--  <img src="https://github.com/user-attachments/assets/56de3b6f-6932-4946-984a-4bcb922cbcc4" width=360px ></img> -->
-https://github.com/user-attachments/assets/ba38fe89-59c3-40e5-a9c8-9d28dfa61b46
+      <div  width=360px >
+        https://github.com/user-attachments/assets/ba38fe89-59c3-40e5-a9c8-9d28dfa61b46
+      </div>
 
 
 
