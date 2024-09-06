@@ -61,7 +61,7 @@
 <h2>My Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h3>Mood Sync</h3>
 <!--  <img src="https://github.com/user-attachments/assets/56de3b6f-6932-4946-984a-4bcb922cbcc4" width=360px ></img> -->
       <div  width=360px >
@@ -80,7 +80,7 @@
         <p><strong>React.js ,Node.js , Express.js ,Passport.js ,OAuth , Spotify API</strong>- Mood Sync is a web app that uses the Spotify API to analyze your recent listening history, recommend new songs, detect your mood, and display your top tracks and artists.</p>
 </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h3>Watchlist</h3>
     <img src="https://github.com/user-attachments/assets/396d3d10-ede6-4657-bb7e-7bd8f5e47c6a" width=100% height=50%> ></img>
    
@@ -92,7 +92,7 @@
       </p>
         <p><strong> React, TMBD API, Axios</strong>- Watchlist is a web app designed to help users discover and save their favorite movies and TV shows.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <h3>Face Recognition Device</h3>
     <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%> ></img>
 
