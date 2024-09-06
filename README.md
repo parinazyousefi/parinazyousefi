@@ -63,7 +63,7 @@
   <tr>
     <td width="33.33%" valign="top">
       <h3>Mood Sync</h3>
-      ![](https://github.com/user-attachments/assets/665f66cd-208c-48e9-98e2-3f50410f062a)
+      <img src="https://github.com/user-attachments/assets/665f66cd-208c-48e9-98e2-3f50410f062a" alt="Mood Sync Screenshot" style="width: 100%; max-width: 300px;">
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
