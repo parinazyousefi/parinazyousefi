@@ -63,9 +63,7 @@
   <tr>
     <td width="33.33%" valign="top">
       <h3>Mood Sync</h3>
-      <div align="center">
-        https://github.com/user-attachments/assets/ba38fe89-59c3-40e5-a9c8-9d28dfa61b46
-      </div>
+      ![Recording2024-08-05202955-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/665f66cd-208c-48e9-98e2-3f50410f062a)
 
   <p>
   <a href="https://github.com/parinazyousefi/parinaz-yousefi-mood-sync" target="_blank">
