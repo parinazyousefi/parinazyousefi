@@ -99,7 +99,7 @@
     </td>
     <td width="33.33%" valign="top">
       <h3>Face Recognition Device</h3>
-    <img src="https://github.com/user-attachments/assets/76bbb95d-ade3-4921-a094-70a0e7a450de" width=100% height=50%>
+     <img src="https://github.com/user-attachments/assets/79436f47-7eee-43fe-a3d7-c8dafd040b82" alt="Mood Sync Screenshot" style="width: 100%; max-width: 300px;">
 
   <p>
   <a href="https://github.com/parinazyousefi/Face-recognition-device-with-ESP32" target="_blank">
