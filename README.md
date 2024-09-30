@@ -5,7 +5,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parinaz-yousefi)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoftexchange)](mailto:parinazyousefi1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-purple?style=for-the-badge&logo=webflow&link=https%3A%2F%2Fdiwudev.ca)](https://parinazyousefi.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-purple?style=for-the-badge&logo=webflow&link=https%3A%2F%2Fdiwudev.ca)](https://parinazs-yousefi.webflow.io/)
 </section>
 
 
@@ -104,8 +104,10 @@
   <p>
   <a href="https://github.com/parinazyousefi/Face-recognition-device-with-ESP32" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    
   </a>  
+     <a href="https://youtu.be/Ksnj5EyZxgo" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
       </p>
         <p><strong> C++, Arduino Uno, ESP32-CAM</strong>- This project presents a sophisticated security system for server room access control, leveraging facial recognition technology. The system ensures that only authorized individuals gain entry to the server room, maintaining a comprehensive log of access attempts.</p>
     </td>
