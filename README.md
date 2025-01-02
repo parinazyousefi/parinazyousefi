@@ -10,13 +10,8 @@
 
 
 
-<h3 > I am a full-stack developer ⚙️</h2>
+<h3 > I am a software engineer ⚙️</h2>
 
-
-
-<img src="https://github.com/user-attachments/assets/06baafe5-f3ee-4e64-817e-6ab9f10bc533" height=300px >
-<img src="https://github.com/user-attachments/assets/fe0062f9-7d6e-4b0a-9690-9b6eae5e1bb9"  height=300px >
-<img src="https://github.com/user-attachments/assets/c458d652-8d04-426c-95f0-a5c9dd02272c" height=300px>
 
 <p>I am originally from Tehran ,Iran ☀️ and moved to Toronto ❄️ to study Computer Engineering 💻</p>
 <p>When I'm not coding, I'm trying to improve my French skills 🥐 , watching something Tim Burton directed 💀 or swimming 🏊🏻‍♀️ </p>
@@ -50,17 +45,21 @@
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
 <h3>System and Database</h3>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h3>Testing</h3>
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </section>
 
