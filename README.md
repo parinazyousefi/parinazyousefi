@@ -10,14 +10,6 @@
 
 
 
-<h3 > I am a software engineer ⚙️</h2>
-
-
-<p>I am originally from Tehran ,Iran ☀️ and moved to Toronto ❄️ to study Computer Engineering 💻</p>
-<p>When I'm not coding, I'm trying to improve my French skills 🥐 , watching something Tim Burton directed 💀 or swimming 🏊🏻‍♀️ </p>
-</section>
-
-
 
 
 <section align="center">
