@@ -107,11 +107,6 @@
 </table>
 </section>
 
-<section align="center">
 
-<h2>My Activities</h2>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/parinazyousefi1)
-</section>
 
 <h2 align="center">Thank you for visiting, and I hope you have a nice day!</h3>
